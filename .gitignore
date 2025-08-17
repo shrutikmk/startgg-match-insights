@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.build/
+
+# Envs
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & cache
+*.log
+.cache/
+tensorboard/
+
+# Data / Models
+data/
+datasets/
+outputs/
+models/
+*.csv
+*.json
+*.parquet
+*.pkl
+*.pt
+*.h5
+
+# Sensitive files
+keys.py
