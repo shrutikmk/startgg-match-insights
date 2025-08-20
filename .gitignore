@@ -36,3 +36,6 @@ models/
 
 # Sensitive files
 keys.py
+
+# Testing
+viewing.ipynb
